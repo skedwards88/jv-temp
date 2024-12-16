@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+    <groupId>com.quickstart</groupId>
+    <artifactId>quickstart</artifactId>
+  <version>1</version>
+
+      <dependencies>
+      <dependency>
+        <groupId>com.datastax.astra</groupId>
+        <artifactId>astra-db-java</artifactId>
+        <version>1.5.3</version>
+      </dependency>
+    </dependencies>
+</project>
